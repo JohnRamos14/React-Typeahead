@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Practice/typeahead/src/Apps.js/static/css/main.bf9e9048.css",
-    "main.js": "/Practice/typeahead/src/Apps.js/static/js/main.eb17c8a8.js",
-    "index.html": "/Practice/typeahead/src/Apps.js/index.html",
-    "main.bf9e9048.css.map": "/Practice/typeahead/src/Apps.js/static/css/main.bf9e9048.css.map",
-    "main.eb17c8a8.js.map": "/Practice/typeahead/src/Apps.js/static/js/main.eb17c8a8.js.map"
+    "main.css": "/React-Typeahead/static/css/main.bf9e9048.css",
+    "main.js": "/React-Typeahead/static/js/main.eb17c8a8.js",
+    "index.html": "/React-Typeahead/index.html",
+    "main.bf9e9048.css.map": "/React-Typeahead/static/css/main.bf9e9048.css.map",
+    "main.eb17c8a8.js.map": "/React-Typeahead/static/js/main.eb17c8a8.js.map"
   },
   "entrypoints": [
     "static/css/main.bf9e9048.css",
